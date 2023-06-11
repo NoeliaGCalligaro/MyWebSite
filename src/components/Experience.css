@@ -1,0 +1,67 @@
+section{
+    margin: 0;
+    height: 110vh;
+}
+
+.experience{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 95%;
+    height: 25%;
+   
+}
+
+.experience-item{
+max-width: 30%;
+padding: auto;
+
+}
+
+.experience-item h3 , h4{
+    text-align: center;
+}
+
+
+
+.studies{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 95%;
+    height: 25%;
+   
+}
+
+.studies-item{
+max-width: 25%;
+padding: 20px;
+text-align: justify;
+}
+
+.studies-item h4{
+    
+    text-align: center;
+}
+
+.button-next{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    height: 4%;
+     
+  }
+  .Subtitle{
+    margin:0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  align-items:center;
+  
+  }
+
+  .Subtitle svg{
+    margin-top:50px;
+    margin-left: 20px;
+  }

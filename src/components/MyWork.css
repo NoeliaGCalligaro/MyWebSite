@@ -1,0 +1,57 @@
+
+section{
+  height: 100vh;
+}
+.video-grid {
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .video-item {
+    width: 300px;
+    height: 350px;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow: hidden;
+    position: relative;
+    
+  }
+  .video-text{
+    text-align: justify;
+    height: 50%;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  .video-text h3{
+    text-align: center;
+
+  }
+  .video-item video {
+    max-width: 100%;
+  max-height: 50%;
+  object-fit: cover;
+  object-position: center;
+  
+  transition: transform 0.8s;
+}
+
+.video-item:hover video {
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 130%;
+  max-height: 150%;
+  z-index: 1;
+}
+
+.button-next{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  
+}
