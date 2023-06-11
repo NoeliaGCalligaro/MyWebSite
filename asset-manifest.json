@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MyWebSite/static/css/main.d5efe7c8.css",
+    "main.js": "/MyWebSite/static/js/main.2f78895f.js",
+    "static/js/787.71e672d5.chunk.js": "/MyWebSite/static/js/787.71e672d5.chunk.js",
+    "static/media/mifoto.jpg": "/MyWebSite/static/media/mifoto.8bcbec6b13c942d785b8.jpg",
+    "static/media/ToDoList.mp4": "/MyWebSite/static/media/ToDoList.ea8baf0cef3f8af62ea5.mp4",
+    "static/media/BookStore.mp4": "/MyWebSite/static/media/BookStore.54ce580974ff56b81582.mp4",
+    "static/media/Weather.mp4": "/MyWebSite/static/media/Weather.655523e6fc579e1b437c.mp4",
+    "static/media/Calculator.mp4": "/MyWebSite/static/media/Calculator.c7308d82704d5415c15d.mp4",
+    "static/media/CurriculumVitae2023.pdf": "/MyWebSite/static/media/CurriculumVitae2023.8d2354cad26e9e27acd5.pdf",
+    "index.html": "/MyWebSite/index.html",
+    "main.d5efe7c8.css.map": "/MyWebSite/static/css/main.d5efe7c8.css.map",
+    "main.2f78895f.js.map": "/MyWebSite/static/js/main.2f78895f.js.map",
+    "787.71e672d5.chunk.js.map": "/MyWebSite/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5efe7c8.css",
+    "static/js/main.2f78895f.js"
+  ]
+}
