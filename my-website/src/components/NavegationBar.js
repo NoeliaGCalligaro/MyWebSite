@@ -1,25 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const NavigationBar = () => {
+
+export default function NavegationBar() {
   return (
-    <nav>
-      <ul>
-        <li>
-          <Link to="/">Sobre mí</Link>
-        </li>
-        <li>
-          <Link to="/mi-trabajo">Mi trabajo</Link>
-        </li>
-        <li>
-          <Link to="/experiencia">Experiencia</Link>
-        </li>
-        <li>
-          <Link to="/contacto">Contacto</Link>
-        </li>
-      </ul>
-    </nav>
+    <div>
+      
+      <h2>Hola</h2>
+    </div>
   );
 };
 
-export default NavigationBar;
+
