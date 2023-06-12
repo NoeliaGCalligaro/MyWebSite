@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyWebSite/static/css/main.d5efe7c8.css",
-    "main.js": "/MyWebSite/static/js/main.75b187b8.js",
+    "main.js": "/MyWebSite/static/js/main.fc589d2d.js",
     "static/js/787.71e672d5.chunk.js": "/MyWebSite/static/js/787.71e672d5.chunk.js",
     "static/media/mifoto.jpg": "/MyWebSite/static/media/mifoto.8bcbec6b13c942d785b8.jpg",
     "static/media/ToDoList.mp4": "/MyWebSite/static/media/ToDoList.ea8baf0cef3f8af62ea5.mp4",
@@ -11,11 +11,11 @@
     "static/media/CurriculumVitae2023.pdf": "/MyWebSite/static/media/CurriculumVitae2023.8d2354cad26e9e27acd5.pdf",
     "index.html": "/MyWebSite/index.html",
     "main.d5efe7c8.css.map": "/MyWebSite/static/css/main.d5efe7c8.css.map",
-    "main.75b187b8.js.map": "/MyWebSite/static/js/main.75b187b8.js.map",
+    "main.fc589d2d.js.map": "/MyWebSite/static/js/main.fc589d2d.js.map",
     "787.71e672d5.chunk.js.map": "/MyWebSite/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5efe7c8.css",
-    "static/js/main.75b187b8.js"
+    "static/js/main.fc589d2d.js"
   ]
 }
